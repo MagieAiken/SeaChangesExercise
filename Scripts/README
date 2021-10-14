@@ -1,0 +1,2 @@
+This folder contains a single .R file which provides libraries and code needed to make a simple greyscale world map with a red box that highlights the North Sea basin area. 
+It's made using ggplot.
