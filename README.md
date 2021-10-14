@@ -7,3 +7,5 @@ and merges.
 The two folders are:
 1. Scripts - contains any R script added to the repository
 2. Participants - contains a file with a list of participants in the workshop
+
+We can add information about our projects here!
